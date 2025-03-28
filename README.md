@@ -1,6 +1,6 @@
-# Webpage Documentation File
+# WEBPAGE DOCUMENTATION FILE
 
-## Overview
+## OVERVIEW
 
 Hi, my name is Alec, and this project is a simple landing page I created as part of my web development assignment.
 
@@ -8,7 +8,7 @@ This project involves the development of a landing page for a fictional product,
 
 The primary goal is to focus on creating a simple, accessible, and visually pleasing webpage with organized structured code. The webpage was developed using Microsoft Visual Studio Code and hosted on GitHub to learn how to maintain a repository and launch a simple website.
 
-## Project Structure
+## PROJECT STRUCTURE
 
 The website is hosted on GitHub, which includes the following structure:
 
@@ -25,38 +25,38 @@ The HTML file follows a simple structure using semantic elements such as `<heade
 
 In addition, the project includes an images folder to store the hero image, and also has a `README.md` file containing this documentation.
 
-## Image Sourcing and Licensing
+## IMAGE SOURCING AND LICENSING
 
 The hero image used on the landing page is sourced from [Unsplash](https://unsplash.com/). It is license-free and can be used without attribution.
 
 The image was resized and styled using CSS to fit within the layout of the page, ensuring it looks good on all screen sizes and making the website mobile-responsive.
 
-## Design Features
+## DESIGN FEATURES
 
 1. **Responsive Layout**: The design uses Flexbox and media queries to ensure that the page adjusts correctly to various screen sizes, from mobile to desktop.
 2. **Hero Section**: A large hero banner introduces the *FleetFoot X1* shoes with a compelling tagline. The image is responsive and adjusts based on screen size.
 3. **Product Features**: Key features of the *FleetFoot X1* shoes are presented in a clean, bulleted format for easy readability and quick scanning by users.
 4. **Call to Action**: The CTA section encourages users to "Buy Now" with an attention-grabbing button.
 
-## Accessibility Considerations
+## ACCESSIBILITY CONSIDERATIONS
 
 1. **Contrast**: I used high-contrast colors between the text and background to ensure readability for users with visual impairments.
 2. **Links and Buttons**: All links are styled to be easily identifiable and have appropriate padding for users with mobility challenges.
 3. **Alt Text for Images**: The hero image used on the website has suitable alt text, ensuring users with screen readers can understand the content of the image.
 
-## Technical Features
+## TECHNICAL FEATURES
 
 1. **External CSS File**: An external stylesheet (`styles.css`) is used to keep the HTML clean and maintainable.
 2. **Meta Tags for SEO and Responsiveness**: The webpage includes necessary meta tags such as `meta charset="UTF-8"` for proper encoding and `meta name="viewport" content="width=device-width, initial-scale=1.0"` to ensure the page is responsive on mobile devices.
 3. **Responsive Hero Image**: The hero image adjusts to different screen sizes, maintaining proper aspect ratios.
 
-## Future Steps
+## FUTURE STEPS
 
 1. **Interactive Features**:
    - **Product Reviews**: Adding a section for customer reviews would increase the interactive aspect of the website. Users could submit their reviews, which could be displayed dynamically.
    - **Contact Form**: A contact form could be added to allow visitors to inquire directly about the product or ask questions.
 
-## Conclusion
+## CONCLUSION
 
 I am happy with how the landing page turned out in this assignment, as it is a way to showcase what I have learned so far in HTML, CSS, and GitHub. The webpage demonstrates the necessary web development skills, such as writing semantic HTML and creating a mobile-responsive layout.
 
