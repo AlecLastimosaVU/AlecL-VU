@@ -1,0 +1,54 @@
+/* BODY STYLE */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+/* HEADER */
+header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+/* FLEETFOOT X1 HERO BANNER */
+.hero {
+    background-color: #FAF9F6;
+    padding: 20px;
+}
+
+.hero img {
+    width: 300px;
+}
+
+/* KEY FEATURES */
+#features {
+    background-color: white;
+    padding: 20px;
+}
+
+/* BUTTONS */
+a {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+}
+
+/* CTA */
+.cta {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+/* FOOTER */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    font-size: 14px;
+}
