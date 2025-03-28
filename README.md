@@ -22,7 +22,7 @@ The website is hosted on Github, which includes the following structure:
     - index.html (Contains the structure of the webpage using HTML)
     - README.md (Contains the documentation of the development process)
 
-The HTML file follows a simple structure using semantic elements such as <header>, <section>, and <footer> for better readibility and accesibility. The CSS file applies styling to improve the layout, spacing, and apperance of the text. In addition, the project includes an images folder to store the hero image, and also has a README.md file containing this documentation process.
+The HTML file follows a simple structure using semantic elements such as /header, /section, and /footer for better readibility and accesibility. The CSS file applies styling to improve the layout, spacing, and apperance of the text. In addition, the project includes an images folder to store the hero image, and also has a README.md file containing this documentation process.
 
 
 -IMAGE SOURCING AND LICENSING-
