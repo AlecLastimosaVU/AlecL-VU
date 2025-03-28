@@ -1,5 +1,6 @@
 -Website Development Documentation-
 
+
 -Overview-
 
 Hi, my name is Alec, and this project is a simple landing page I created as part of my web development assignment.
@@ -69,5 +70,3 @@ I am happy with how the landing page turned out in this assignment, as it is a w
 The webpage demonstrates the necessary web development skills, like writing semantic HTML and creating a mobile-responsive layout.
 
 This assignment has been a valuable learning experience and has given me the opportunity to explore the basics of web development.
-
-
