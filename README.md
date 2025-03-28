@@ -1,5 +1,6 @@
 -WEBSITE DEVELOPMENT DOCUMENTATION-
-<br>
+
+
 -OVERVIEW-
 
 My name is Alec, and this project is a simple landing page I created as part of my web development assignment. 
@@ -8,6 +9,8 @@ This project involves the development of a landing page for a fictional product,
 
 The primary goal is to focus on creating a simple, accessible, and visually pleasing webpage with organised structured code. The webpage was developed using Microsoft Visual Studio Code and hosted on Github to learn how to maintain a repository and launch a simple website.
 <br>
+
+
 -PROJECT STRUCTURE-
 
 The website is hosted on Github, which includes the following structure:
